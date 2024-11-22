@@ -9,6 +9,7 @@
 4. I have **HTML** and **CSS** layout skills, and minimal knowledge of **JavaScript**.
 
 5. *Code Examples my game Tic-Tac-Toe*.\
+
 ```javascript
 let currentPlayer = 'X';
 let gameBoard = ['','','','','','','','',''];
@@ -92,7 +93,7 @@ const winConditions = [
   }
   ```
 
-![image T-T-T](https://github.com/user-attachments/assets/6c489644-b089-485e-831b-7b4f148ce38d)
+* ![image T-T-T](https://github.com/user-attachments/assets/6c489644-b089-485e-831b-7b4f148ce38d)
 
 6. I have no experience in commercial development, *but I have various pet projects that I wrote during my self-study process.*  **View by https://github.com/AlinaZav**
 
