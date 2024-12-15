@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/AlinaZav/rsschool-cv/tree/rsschool-cv-html
